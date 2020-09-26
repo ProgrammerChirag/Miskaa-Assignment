@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="asia_countries">Asia Countries</string>
+    <string name="todo">todo</string>
+    <string name="country_india">Country: INDIA</string>
+    <string name="current_population_135_cr">Current Population : 135 cr.</string>
+    <string name="region">Region :</string>
+    <string name="subregion">SubRegion:</string>
+    <string name="capital">Capital :</string>
+    <string name="borders">Borders:</string>
+    <string name="languages">Languages</string>
+</resources>
